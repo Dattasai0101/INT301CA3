@@ -1,8 +1,18 @@
-Foremost installation
+1)Foremost installation
 
 sudo apt-get install foremost
 
-Create a new directory and add files in them (video files)
+2)Create a new directory and add files in them (video files)
 
 
+3)Foremost commands
+
+-v
+Enables verbose mode. This causes more information regarding the current state of the program to be displayed on the screen, and is highly recommended.
+
+-i file
+The file is used as the input file. If no input file is specified or the input file cannot be read then stdin is used.
+
+-t   
+specify file type.(Ex: .jpg, .mp4, .img)
 
