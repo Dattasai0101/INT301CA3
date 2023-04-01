@@ -16,3 +16,8 @@ The file is used as the input file. If no input file is specified or the input f
 -t   
 specify file type.(Ex: .jpg, .mp4, .img)
 
+4)Foremost usage
+
+foremost -v -t all -i fire.mp4
+
+
