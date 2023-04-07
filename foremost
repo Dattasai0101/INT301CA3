@@ -20,4 +20,11 @@ specify file type.(Ex: .jpg, .mp4, .img)
 
 foremost -v -t all -i fire.mp4
 
+5)Foremost result:
+
+Files extracted:2
+File size: 5Mb
+Partial file:1
+Full multimedia file:1
+File formats of output files: .mov(partial), .mp4(full)
 
